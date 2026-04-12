@@ -1,3 +1,4 @@
 background-opacity = 0.4
 background-blur-radius = 50
 font-size = 14
+theme = Gruvbox Material Dark
