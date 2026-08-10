@@ -1,5 +1,4 @@
 background-opacity = 0.8
-background-blur-radius = 50
 font-size = 14
 theme = Gruvbox Material Dark
 desktop-notifications = true
